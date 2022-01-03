@@ -1,3 +1,8 @@
+### FORK
+
+Adds a cmake file and nothing more. 
+
+
 [![discord](https://img.shields.io/discord/703636892901441577?style=flat-square&logo=discord "Discord")](https://discord.gg/SHVaVfV)
 [![npm](https://img.shields.io/npm/v/fastnoise-lite)](https://www.npmjs.com/package/fastnoise-lite)
 
